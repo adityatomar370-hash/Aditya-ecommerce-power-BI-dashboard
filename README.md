@@ -43,7 +43,8 @@ The dashboard helps businesses track KPIs and make data-driven decisions using v
 
 ## 🔹 Quarter 1 Dashboard
 
-![QTR 1](screenshots/QTR%201.png)
+<img width="884" height="493" alt="QTR 1" src="https://github.com/user-attachments/assets/2a77d21e-0a7b-477b-9d12-4eb2f2e63f30" />
+
 
 ## 🔹 Quarter 2 Dashboard
 
