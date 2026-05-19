@@ -48,15 +48,18 @@ The dashboard helps businesses track KPIs and make data-driven decisions using v
 
 ## 🔹 Quarter 2 Dashboard
 
-![QTR 2](screenshots/QTR%202.png)
+<img width="884" height="485" alt="QTR 2" src="https://github.com/user-attachments/assets/b7915ed0-61e5-4a4d-b4bf-71ae987fdb1d" />
+
 
 ## 🔹 Quarter 3 Dashboard
 
-![QTR 3](screenshots/QTR%203.png)
+<img width="882" height="488" alt="QTR 3" src="https://github.com/user-attachments/assets/1cd03e84-5f9e-4e6b-b0a1-753c81ef55e0" />
+
 
 ## 🔹 Quarter 4 Dashboard
 
-![QTR 4](screenshots/QTR%204.png)
+<img width="891" height="494" alt="QTR 4" src="https://github.com/user-attachments/assets/b1260111-ed24-45cb-8aca-7b326752a4e7" />
+
 
 ---
 
@@ -68,15 +71,13 @@ Aditya-Ecommerce-Dashboard/
 
 ├── README.md
 
-└── screenshots/
+├── QTR 1.png
 
-  ├── QTR 1.png
+├── QTR 2.png
 
-  ├── QTR 2.png
+├── QTR 3.png
 
-  ├── QTR 3.png
-
-  └── QTR 4.png
+└── QTR 4.png
 
 
 ---
